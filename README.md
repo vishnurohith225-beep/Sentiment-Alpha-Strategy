@@ -2,7 +2,7 @@
 
 An automated trading algorithm that uses Natural Language Processing (NLP) to generate stock signals from financial news.
 
-## 🤖 AI Architecture
+
 This strategy employs a **dual-model scoring system**:
 1. **FinBERT (BERT-based):** Specialized transformer for financial context.
 2. **NLTK VADER:** Lexicon-based fallback for robust headline scoring.
